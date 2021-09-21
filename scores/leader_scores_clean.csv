@@ -1,0 +1,25 @@
+,Organization,review_status,proportion_local_div,9A,9B,9C,9D,9E,9F,9G,10,leader_prelim_score,leader_weighted_score
+0,Company 1A,In progress,Minimal to no disparities (ie - the differential between our workforce and the population across different groups is 5% or less per group),C-Suite,Board/Advisory Bodies,Senior Management,Management,Mentorship Programs,Internal Promotions,,,0.375,2.8125
+1,Company 1B,No,,,,,,,,,,0.0,0.0
+2,Company 1C,No,,,,,,,,,,0.0,0.0
+3,Company 1D,No,,,Board/Advisory Bodies,,,,,,,0.125,0.9375
+4,Company 1E,No,,,,,,,Internal Promotions,,,0.125,0.9375
+5,Company 1F,No,,,,,Management,,,,,0.125,0.9375
+6,Company 1G,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+7,Company 1H,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+8,Company 1I,No,,,,Senior Management,,,,,Nearing goals (66-99% targets met),0.375,2.8125
+9,Company 1J,In progress,Minimal to no disparities (ie - the differential between our workforce and the population across different groups is 5% or less per group),,,,,,,No,N/A - No targets set,0.125,0.9375
+10,Company 1K,Yes,Modest disparities (ie - the differential between our workforce and the population across different groups is 10% or less per group),,,,,Mentorship Programs,,,N/A - No targets set,0.375,2.8125
+11,Company 1L,Yes,Significant disparities (ie - one or more groups that represent >10% population not represented in our workforce),,,,,,,No,N/A - No targets set,0.25,1.875
+12,Company 1M,Yes,Significant disparities (ie - one or more groups that represent >10% population not represented in our workforce),,,,,,,No,N/A - No targets set,0.25,1.875
+13,Company 1N,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+14,Company 1O,Yes,Significant disparities (ie - one or more groups that represent >10% population not represented in our workforce),C-Suite,Board/Advisory Bodies,Senior Management,Management,,,,Nearing goals (66-99% targets met),0.75,5.625
+15,Company 1P,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+16,Company 1Q,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+17,Company 1R,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+18,Company 1S,No,,,Board/Advisory Bodies,,,,,,,0.125,0.9375
+19,Company 1T,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+20,Company 1U,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+21,Company 1V,No,,,,,,,,No,N/A - No targets set,0.0,0.0
+22,Company 1W,Yes,Minimal to no disparities (ie - the differential between our workforce and the population across different groups is 5% or less per group),,,,,,,No,N/A - No targets set,0.25,1.875
+23,Company 1X,No,,,,Senior Management,Management,,,,Goals met,0.5,3.75
